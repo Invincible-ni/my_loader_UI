@@ -1,5 +1,5 @@
 body{
-    background-color:black;
+    background-color:#35424a;
 }
 #cirA{
     position:relative;
@@ -8,7 +8,7 @@ body{
     border-radius:50%;
     background-color:black;
     border:5px solid black;
-    border-top:5px solid white;
+    border-top:5px solid #e8491d;
     border-bottom:5px solid white;
     bottom:-150px;
     right:-120px;
@@ -22,7 +22,7 @@ body{
     background-color:black;
     border:5px solid black;
     border-top:5px solid white;
-    border-bottom:5px solid white;
+    border-bottom:5px solid #e8491d;
     bottom:-50px;
     right:-130px;
     box-shadow:0px 0px 40px blue;
